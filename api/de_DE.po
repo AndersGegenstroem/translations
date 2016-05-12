@@ -17,7 +17,7 @@ msgstr ""
 #: /var/lib/jenkins_home/jobs/klickrent-api-translations-parse/workspace/sources/module/KRWebUI/view/error/404.phtml:11
 #: /var/lib/jenkins_home/jobs/klickrent-api-translations-parse/workspace/sources/module/KRApi/view/error/404.phtml:11
 msgid "KRAPI:VIEW:ERROR_PAGE_404:ERROR_CONTROLLER_CANNOT_DISPATCH"
-msgstr "Translation"
+msgstr "Translation added"
 
 #: /var/lib/jenkins_home/jobs/klickrent-api-translations-parse/workspace/sources/module/KRWebUI/view/error/404.phtml:16
 #: /var/lib/jenkins_home/jobs/klickrent-api-translations-parse/workspace/sources/module/KRApi/view/error/404.phtml:16
