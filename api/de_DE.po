@@ -22,7 +22,7 @@ msgstr "Some translation"
 #: /var/lib/jenkins_home/jobs/klickrent-api-translations-parse/workspace/sources/module/KRWebUI/view/error/404.phtml:16
 #: /var/lib/jenkins_home/jobs/klickrent-api-translations-parse/workspace/sources/module/KRApi/view/error/404.phtml:16
 msgid "KRAPI:VIEW:ERROR_PAGE_404:ERROR_CONTROLLER_NOT_FOUND"
-msgstr ""
+msgstr "More"
 
 #: /var/lib/jenkins_home/jobs/klickrent-api-translations-parse/workspace/sources/module/KRWebUI/view/error/404.phtml:21
 #: /var/lib/jenkins_home/jobs/klickrent-api-translations-parse/workspace/sources/module/KRApi/view/error/404.phtml:21
